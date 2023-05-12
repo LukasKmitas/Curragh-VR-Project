@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 49
+  controlID: 129
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 55
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 56
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -348,23 +348,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AssetStore/Buildings/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Source
+    - Assets/Resources/TerrainLayers
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AssetStore/Buildings/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Source
+  - Assets/Resources/TerrainLayers
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Program Files E\Year3\Work Placement\Curragh-VR-Project\VR
     Project Curragh
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 246}
-    m_SelectedIDs: 2cdb0000
-    m_LastClickedID: 56108
-    m_ExpandedIDs: 00000000728100007481000076810000788100007a8100007c8100007e810000828100008481000086810000348400003c8400005ccb00005ecb000060cb000076cb00007ecb000082cb000084cb000086cb000088cb000096cb000098cb0000a0cb0000f6da0000feda000002db000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 828d0000
+    m_LastClickedID: 36226
+    m_ExpandedIDs: 00000000b4880000b6880000b8880000ba880000bc880000be880000c0880000c2880000c4880000c6880000c8880000ca880000cc880000ce880000d0880000d2880000d4880000d6880000d8880000da880000e88b0000ea8b0000ee8b0000028c0000188c0000d28c0000d68c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000070810000728100007481000076810000788100007a8100007c8100007e81000080810000828100008481000086810000
+    m_ExpandedIDs: 00000000b2880000b4880000b6880000b8880000ba880000bc880000be880000c0880000c2880000c4880000c6880000c8880000ca880000cc880000ce880000d0880000d2880000d4880000d6880000d8880000da880000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -521,10 +521,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 778}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: baf8faff06dafeff1afbfffffa6c0000406f0000209e000086a30000b8ab000088b40000aeb60000
+      m_ExpandedIDs: 1afbffff166d0000326d0000aa7000003a720000767800009a790000427b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -807,9 +807,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 337.8137, y: 43.18506, z: 519.38965}
+    m_Target: {x: 39.542274, y: -5.851593, z: 490.65967}
     speed: 2
-    m_Value: {x: 337.8137, y: 43.18506, z: 519.38965}
+    m_Value: {x: 39.542274, y: -5.851593, z: 490.65967}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -856,13 +856,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2884649, y: 0.15001187, z: -0.045811187, w: 0.9445678}
+    m_Target: {x: 0.35501313, y: 0.24931076, z: -0.09882072, w: 0.8955937}
     speed: 2
-    m_Value: {x: 0.29256848, y: 0.15263158, z: -0.047363203, w: 0.94279593}
+    m_Value: {x: 0.3551532, y: 0.24796169, z: -0.09828595, w: 0.8959471}
   m_Size:
-    m_Target: 324.02057
+    m_Target: 24.84202
     speed: 2
-    m_Value: 324.02057
+    m_Value: 24.84202
   m_Ortho:
     m_Target: 0
     speed: 2
