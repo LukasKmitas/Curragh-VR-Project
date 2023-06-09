@@ -6,31 +6,31 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 5b000d0353070f58545a5c704022074413151a7f282b7567797f1e64e3b86c6a
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 5a0550530601585d5c0b5c26417b5b4444164f7a7b7822357c2f4a65e3b3353e
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 0603550707020b020c5a5d764620094415151a79297c2569797b1e65e6b8306e
-      flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
-      flags: 0
-    RecentlyUsedSceneGuid-4:
-      value: 5002065f005458085e5f0a70147a0a441016497f7f7d25617c2f4430b7b0626f
-      flags: 0
-    RecentlyUsedSceneGuid-5:
-      value: 50000d020453080e0e565c24427a5944444f1c297d2d76347d7a1b63b6b1636f
-      flags: 0
-    RecentlyUsedSceneGuid-6:
       value: 0157075f5454585a5f0c582614270b444e16497f2d2a71337b791865e0e2363d
       flags: 0
-    RecentlyUsedSceneGuid-7:
+    RecentlyUsedSceneGuid-1:
       value: 06575754550c0f0b555d0d2348210e44154e1c797e7c74677c2c4b62e7b8616e
       flags: 0
-    RecentlyUsedSceneGuid-8:
+    RecentlyUsedSceneGuid-2:
       value: 52530657500c5a085c5a5b7b487506444e16402f7e787163787c4a62e4b1616d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5155025f51530a5a54560f274726074414164f7e7c2d7e35797b1962b6e3606a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 56520c020706080f545f5d7b42730b4444161d2c747b223375701861b1b66168
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 01540d0757020b5d540c0d7142750744154f4e2e7b7f27337e7f4435e1e46d3a
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5b54035f56010c5f5d0d087046220e44444f417b787877312e7d4e60b0b8606f
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 065207040056085e0b56542449740f44174f4d7e287d7069782c1c63e4b4656a
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 05075156540658090f5f0a7143205944414f4d2b297027672f7c4937e6b9636c
       flags: 0
     RecentlyUsedSceneGuid-9:
       value: 0100025206535a030c0f087748275b4440151c2928707268792a1e35b1b8366d
