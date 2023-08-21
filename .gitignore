@@ -9,8 +9,8 @@
 [Vv]R Project Curragh*/[Bb]uilds/
 [Vv]R Project Curragh*/[Ll]ogs/
 [Vv]R Project Curragh*/[Mm]emoryCaptures/
-[Vv]R Project Curragh*/[Pp]roject[Ss]ettings/
-[Vv]R Project Curragh*/[Pp]ackages/
+#[Vv]R Project Curragh*/[Pp]roject[Ss]ettings/
+#[Vv]R Project Curragh*/[Pp]ackages/
 [Vv]R Project Curragh*/Assets/AssetStoreTools*
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
