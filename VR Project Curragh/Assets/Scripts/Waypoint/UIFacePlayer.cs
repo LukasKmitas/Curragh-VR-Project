@@ -2,11 +2,10 @@ using UnityEngine;
 
 public class UIFacePlayer : MonoBehaviour
 {
-    public Transform playerTransform; // Reference to the player's Transform
+    public Transform playerTransform;
 
     private void Start()
     {
-        // You can find the player's Transform by tagging the player GameObject as "Player" or assigning it directly in the Inspector.
         if (playerTransform == null)
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
