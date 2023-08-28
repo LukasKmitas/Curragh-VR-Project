@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 90
+  controlID: 88
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 88
+  controlID: 86
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 89
+  controlID: 87
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 45
+  controlID: 18
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -484,7 +484,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: dc80fefffe80feff54d9feff3cdcfeff6e3c0200083d020000410200d2550200a0590200
+      m_ExpandedIDs: 94d4feff3cdcfeff3e2d0200da350200143f0200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -767,9 +767,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 501.88007, y: 41.13598, z: 495.07922}
+    m_Target: {x: 481.52902, y: 30.286896, z: 755.04443}
     speed: 2
-    m_Value: {x: 501.88007, y: 41.13598, z: 495.07922}
+    m_Value: {x: 481.52902, y: 30.286896, z: 755.04443}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -816,13 +816,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.23826906, y: 0.21578075, z: -0.054419704, w: -0.9453886}
+    m_Target: {x: -0.3503001, y: 0.009260344, z: -0.003537173, w: -0.9366212}
     speed: 2
-    m_Value: {x: -0.23250622, y: 0.21751745, z: -0.05347128, w: -0.9464502}
+    m_Value: {x: -0.35309646, y: 0.009249377, z: -0.0035648213, w: -0.9355345}
   m_Size:
-    m_Target: 1.3449111
+    m_Target: 502.08093
     speed: 2
-    m_Value: 1.3449111
+    m_Value: 525.7392
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -918,23 +918,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Waypoint
+    - Assets/AssetStore/Structures/RPG_FPS_game_assets_industrial/Particles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/Scripts/Waypoint
+  - Assets/AssetStore/Structures/RPG_FPS_game_assets_industrial/Particles
   m_LastFoldersGridSize: 58
   m_LastProjectPath: E:\Program Files E\Year3\Work Placement\Curragh-VR-Project\VR
     Project Curragh
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 53}
-    m_SelectedIDs: 689c0200
-    m_LastClickedID: 171112
-    m_ExpandedIDs: 00000000c82b0200d42b020000ca9a3b
+    scrollPos: {x: 0, y: 25}
+    m_SelectedIDs: bee00200
+    m_LastClickedID: 188606
+    m_ExpandedIDs: 00000000c42b0200e6cc020000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1083,7 +1083,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 378
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
